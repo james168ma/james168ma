@@ -3,8 +3,9 @@
 #### I'm James, and ...
 
 - 🏫 I'm currently a second year CS student at UCLA.
-- 🔭 I’m currently working on a multiplayer FPS game called [Simpleton](https://github.com/james168ma/Simpleton).
-- 😄 I'm looking for a software engineering intership.
+- 🔫 I’m currently working on a multiplayer FPS game called [Simpleton](https://github.com/james168ma/Simpleton).
+
+Find out more about me on my [personal website](https://jamesma.vercel.app/)!
 
 <!--
 **james168ma/james168ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
