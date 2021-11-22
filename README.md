@@ -3,7 +3,7 @@
 #### I'm James, and ...
 
 - 🏫 I'm currently a second year CS student at UCLA.
-- 🔫 I’m currently working on a multiplayer FPS game called [Simpleton](https://github.com/james168ma/Simpleton).
+<!-- - 🔫 I’m currently working on a multiplayer FPS game called [Simpleton](https://github.com/james168ma/Simpleton). -->
 
 Find out more about me on my [personal website](https://jamesma.vercel.app/)!
 
